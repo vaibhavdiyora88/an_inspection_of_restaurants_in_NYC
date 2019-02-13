@@ -1,5 +1,6 @@
 
-#an_inspection_of_restaurants_in_NYC
+# an_inspection_of_restaurants_in_NYC
+## introduction
 
 The goal of our analysis is to figure out which variables in our dataset have the most influence on the inspection score awarded to each data observation, which is each individual restaurant in the city of New York.
 
@@ -9,4 +10,4 @@ We start parsing through the data with an exploratory data analysis (EDA) approa
 
 We did find one study on LinkedIn performed by a masters group from Carnegie Melon University that had used the same dataset. This team used supervised and unsupervised learning to make recommendations on identifying violation trends, predicting violations, and reducing violations. Their approach was similar to ours in so far as to use one statistical method, in this case supervised and unsupervised learning, to identify certain opportunities and make some recommendations.
 
-Please Check the report file to check full report including eda and results.
+Please Check the report file to check full report including eda, methodology and results.
